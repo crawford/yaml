@@ -2,7 +2,7 @@ package yaml_test
 
 import (
 	. "gopkg.in/check.v1"
-	"gopkg.in/yaml.v1"
+	"github.com/coreos/yaml"
 	"math"
 	"reflect"
 	"strings"
